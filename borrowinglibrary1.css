@@ -1,0 +1,45 @@
+Books, serialnumber, booktitle, bookauthor, publishdate, availability {
+  display : block; }
+
+ serialnumber {
+  font-family: 'Times New Roman';
+  font-size:   14pt;
+  text-indent: 0em;
+  text-align: justify;
+  color:       black; 
+  :after }
+
+
+booktitle {
+  font-family: 'Times New Roman';
+  font-style: italic;
+  font-size:   14pt;
+  text-indent: 1em;
+  text-align: justify;
+  color:       blue; }
+
+bookauthor {
+  font-family: 'Times New Roman';
+  font-size:   14pt;
+  text-indent: 2em;
+  text-align: justify;
+  color:       black; }
+
+publishdate {
+  font-family: 'Times New Roman';
+  font-size:   14pt;
+  color:       black;
+  text-indent: 2em;
+  text-align: justify; }
+
+
+availability {
+  font-family: 'Times New Roman;
+  font-style: bold;
+  font-size:   14pt;
+  text-indent: 5em;
+  text-align: justify;
+  color:       red; } 
+;
+
+

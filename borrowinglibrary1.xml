@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="borrowinglibrary1.css" type="text/css" ?>
+
+
+<!-- Neighborhood Library Borrowing System Homepage -->
+<!-- Minsk - Belarus -->
+<!-- Yakuba Kolasa -->
+<!-- Library No.1 -->
+<!-- 2020/2021 -->
+
+<Books>
+  <book>
+    <serialnumber>2020_001</serialnumber>
+    <booktitle>A Christmas Carol</booktitle>
+    <bookauthor>Charles Dickens</bookauthor>
+    <publishdate>19/12/1843</publishdate>
+    <availability>0</availability> >
+  </book>
+  <book>
+    <serialnumber>2020_002</serialnumber>
+    <booktitle>The Lord Of The Rings</booktitle>
+    <bookauthor>J. J. Tolkien</bookauthor>
+    <publishdate>29/07/1954</publishdate>
+    <availability>1</availability> >
+  </book>
+  <book>
+    <serialnumber>2020_003</serialnumber>
+    <booktitle>The Last Of The Mohicans</booktitle>
+    <bookauthor>James Cooper</bookauthor>
+    <publishdate>13/02/1826</publishdate>
+    <availability>0</availability> >
+  </book>
+  <book>
+    <serialnumber>2020_004</serialnumber>
+    <booktitle>Alice In Wonderland</booktitle>
+    <bookauthor>Lewis Carroll</bookauthor>
+    <publishdate>26/11/1865</publishdate>
+    <availability>1</availability> >
+  </book>
+  <book>
+    <serialnumber>2020_005</serialnumber>
+    <booktitle>A Little Princess</booktitle>
+    <bookauthor>Frances Brunett</bookauthor>
+    <publishdate>06/09/1905</publishdate>
+    <availability>1</availability> > 
+  </book>
+</Books>
